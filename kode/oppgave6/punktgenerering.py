@@ -41,7 +41,7 @@ def load_data(filename):
 
 
 if __name__ == "__main__":
-    n = 20000
+    n = 200
     interval = [0.0, 100.0]
     X_0 = np.identity(3, dtype=np.double)
 
